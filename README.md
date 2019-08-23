@@ -1,5 +1,13 @@
 #### nestjs 脚手架
 
+#### 实现
+* [x] jwt 权限
+* [x] 用户注册，登录
+* [x] mysql
+* [x] 环境配置
+* [ ] rbac 角色权限管理
+* [ ] docker
+
 #### mysql
 mac
 安装：brew install mysql@5.7
@@ -69,10 +77,4 @@ http://localhost:3008
 {"id":1,"name":"stark","email":"wsd312@163.com","level":10}
 ```
 
-#### 实现
-* [x] jwt 权限
-* [x] 用户注册，登录
-* [x] mysql
-* [x] 环境配置
-* [] rbac 角色权限管理
-* [ ] docker
+
