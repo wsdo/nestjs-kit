@@ -1,5 +1,9 @@
 #### nestjs 脚手架
 
+#### mysql
+mac
+安装：brew install mysql@5.7
+
 
 #### 使用方式
 
